@@ -4,6 +4,8 @@ public class gitHub_İlkDers {
         System.out.println("=============");
         System.out.println("Have wise a day");
 
+        System.out.println("merhaba ben wise");
+
 
     }
 }
