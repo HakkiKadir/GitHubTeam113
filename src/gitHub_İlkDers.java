@@ -3,5 +3,7 @@ public class gitHub_İlkDers {
         System.out.println("Hello GitHub");
         System.out.println("=============");
         System.out.println("Have wise a day");
+
+
     }
 }
